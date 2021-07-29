@@ -28,8 +28,11 @@ The visual presentation of your app should be built using responsive, mobile-fir
 - Add a search or filter field to the books display.
 
 ## My Result
-- This is the front end of the application ![content grid with layout](https://user-images.githubusercontent.com/76121361/127558933-a003e38f-c502-425f-bd1d-a2571df5c6d1.PNG)
-- This is what it looks like mobily ![content grid mobily](https://user-images.githubusercontent.com/76121361/127559253-e18c47b3-95cc-4351-82e5-b5f36eaa8209.PNG)
+- This is the front end of the application
+![content grid with layout](https://user-images.githubusercontent.com/76121361/127558933-a003e38f-c502-425f-bd1d-a2571df5c6d1.PNG)
+
+- This is what it looks like mobily 
+![content grid mobily](https://user-images.githubusercontent.com/76121361/127559253-e18c47b3-95cc-4351-82e5-b5f36eaa8209.PNG)
 
 ## Running the Application
 
