@@ -1,0 +1,67 @@
+.App {
+    background-color: lightgray;
+}
+
+.container{
+background-color: grey;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+.row{
+    margin: 20px;
+}
+
+.form-group {
+    margin: 0;
+    padding: 20px; 
+}
+
+.form-control {
+    padding: 0px 10px 0 20px;
+    margin-top: 10px;
+    color: #333;
+    font-size: 28px;
+    font-weight: 500;
+    border: 2px solid #555;
+    min-height: 60px;
+    height: auto;
+    border-radius: 50px  !important;
+    /* max-width: 300px; */
+}
+
+.form-control :focus {
+    border-color: transparent;
+}
+
+.grid {
+    display: flex;
+    grid-gap: 20px;
+    flex-wrap: wrap;
+    /* grid-template-columns: 1fr auto; */
+
+    /* border-top: 1px solid black;
+    border-right: 1px solid black; */
+}
+.grid .card{
+    max-width: 300px;
+    box-shadow:8px 8px 1px 1px;
+}
+
+.grid .card img{
+    height: 200px;
+}
+
+.grid > span {
+    padding: 8px 4px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    white-space: nowrap; 
+
+}
