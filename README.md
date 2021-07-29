@@ -27,6 +27,10 @@ The visual presentation of your app should be built using responsive, mobile-fir
 - Improve the overall accessibility of the app.
 - Add a search or filter field to the books display.
 
+## My Result
+This is the front end of the application (https://user-images.githubusercontent.com/76121361/127558933-a003e38f-c502-425f-bd1d-a2571df5c6d1.PNG)
+This is what it looks like mobily (https://user-images.githubusercontent.com/76121361/127559253-e18c47b3-95cc-4351-82e5-b5f36eaa8209.PNG)
+
 ## Running the Application
 
 The application is a simple `react` application that uses [json-server](https://github.com/typicode/json-server) to handle serving the built javascript and html pages as well as serve as the API for the service. The API is a simple `json` file located in `api/db.json`.
